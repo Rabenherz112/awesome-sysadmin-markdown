@@ -1,0 +1,1 @@
+Please do not submit pull requests in this repository. Use https://github.com/Rabenherz112/awesome-sysadmin-data instead.
