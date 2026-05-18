@@ -58,9 +58,9 @@ See [Contributing](#contributing).
 - [List of Licenses](#list-of-licenses)
 - [Anti-features](#anti-features)
 - [External links](#external-links)
-- [Communities / Forums](#communities--forums)
-- [Repositories](#repositories)
-- [Websites](#websites)
+  - [Communities / Forums](#communities--forums)
+  - [Repositories](#repositories)
+  - [Websites](#websites)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -785,7 +785,7 @@ VPN software.
 
 ## External links
 
-## Communities / Forums
+### Communities / Forums
 
 - [ArsTechnica OpenForum](https://arstechnica.com/civis/) - IT Forum which is attached to a large news site.
 - [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
@@ -796,7 +796,7 @@ VPN software.
 - [StackExchange Network](https://stackexchange.com/sites#technology) - Q&A communities.
   - [Server Fault](https://serverfault.com/) - StackExchange community for system and network administrators.
 
-## Repositories
+### Repositories
 
 *Software package repositories.*
 
@@ -808,7 +808,7 @@ VPN software.
 - [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 - [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
-## Websites
+### Websites
 
 - [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card) - Compilation of software and tools for cloud computing.
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
